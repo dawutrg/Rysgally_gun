@@ -1,0 +1,6 @@
+# Allow all bots to crawl all content
+User-agent: *
+Disallow:
+
+# Sitemap location (if you have a sitemap)
+Sitemap: https://rg-oilgas.com/sitemap.xml
